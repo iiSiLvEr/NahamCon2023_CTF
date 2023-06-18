@@ -1,7 +1,16 @@
 # NahamCon2023 CTF
 
-```Web Challenge : transfer```
+```Challenge: Transfer```
+> Category: Web
 
+
+# Challenge Description:
+```
+Author: @JohnHammond#6971
+
+Inspired by current events! :D
+Escalate your privileges and find the flag.
+```
 
 ``` 
 python3 exploit.py <challengeIp> <yourip:listnerport>
