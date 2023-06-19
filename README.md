@@ -1,5 +1,11 @@
 # NahamCon2023 CTF
 
+Writeup on my GitBook:
+
+https://silver-4.gitbook.io/about/this-week/capture-the-flag/transfer
+
+
+
 ```Challenge: Transfer```
 > Category: Web
 
